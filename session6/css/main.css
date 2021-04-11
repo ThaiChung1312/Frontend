@@ -1,0 +1,149 @@
+/* .title{
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}   
+.title__container{
+    width: 100px;
+    height: 100px;
+    background-color: royalblue;
+}
+.title__body{
+    width: 100px;
+    height: 100px;
+    background-color: springgreen;
+} */
+
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+/* .box-model{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    color: white;
+    box-sizing: border-box;
+} */
+
+.title{
+    background-color: springgreen;
+}
+.between{
+    text-align: center;
+    background-color: springgreen;
+}
+.in_hoa{
+    background-color: springgreen;
+    text-align: center;
+    text-transform: uppercase;
+}
+.size{
+    background-color: springgreen;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+.bold{
+    background-color: springgreen;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.border{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    background-color: springgreen;
+    border: 3px solid black;
+    line-height: 200px;
+    
+}
+.border1{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    background-color: springgreen;
+    border: 3px solid steelblue;
+    line-height: 200px;
+    
+}
+.border2{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    background-color: springgreen;
+    border: 3px solid steelblue;
+    line-height: 200px;
+    border-radius: 20px;
+}
+.text{
+    border: 3px solid teal;
+    background: springgreen;
+    width: 400px;
+    height: 150px;
+    padding-left: 40px;
+}
+.text1{
+    border: 3px solid teal;
+    background: springgreen;
+    width: 400px;
+    height: 150px;
+    padding: 0px 40px 0px 40px;
+}
+.text2{
+    border: 3px solid teal;
+    background: springgreen;
+    width: 400px;
+    height: 150px;
+    padding: 45px;
+}
+.text_one{
+    background-clip:content-box;
+    background-color: springgreen;
+    border: 3px solid black;
+    padding-left: 40px;
+    
+}
+.text_two{
+    background-clip:content-box;
+    background-color: springgreen;
+    border: 3px solid black;
+    padding: 0px 60px 0px 40px;
+}
+.text_three{
+    background-clip:content-box;
+    background-color: springgreen;
+    border: 3px solid black;
+    padding: 50px 60px 50px;
+
+}
+.hello{
+    background-color: red;
+    display: inline;
+}
+#span1{
+    
+    background: red;
+  }
+
+#span2{
+    display: inline-block;
+    width: 500px;
+    background:yellow;
+}
+.span{
+    display: block;
+    background: red;
+  }
+.div{
+    background: blue;
+  }
