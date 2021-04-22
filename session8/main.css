@@ -1,0 +1,46 @@
+p {
+  background-color: green;
+  width: 200px;
+  height: 200px;
+}
+
+#btn2 {
+  width: 200px;
+  height: 200px;
+}
+
+#dn1 {
+  background-color: green;
+  width: 200px;
+  height: 200px;
+}
+
+#dn2 {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
+
+#bai1 {
+  margin-left: 250px;
+  display: inline-block;
+}
+
+#bai2 {
+  margin-left: 400px;
+  display: inline-block;
+}
+
+#bai3 {
+  margin-left: 250px;
+  display: inline-block;
+}
+
+#bai4 {
+  margin-left: 450px;
+  display: inline-block;
+}
+
+.font14 {
+  font-size: 14px;
+}
